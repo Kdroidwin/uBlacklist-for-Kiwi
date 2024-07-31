@@ -2,6 +2,12 @@
 
 [简体中文](README.zh-CN.md)
 
+https://priv.au/search
+https://search.inetol.net/search
+https://searx.tiekoetter.com/search
+https://duckduckgo.com
+に対応(manifest)
+
 Blocks specific sites from appearing in Google search results
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/) / [App Store](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640) (for macOS and iOS, thanks to [Group-Leafy](https://github.com/HoneyLuka/uBlacklist/tree/safari-port/safari-project))

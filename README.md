@@ -1,4 +1,4 @@
-# uBlacklist for Kiwi (mod)
+# uBlacklist for Kiwi (mod) by kdroidwin
 
 [简体中文](README.zh-CN.md)
 

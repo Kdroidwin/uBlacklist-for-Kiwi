@@ -2,11 +2,11 @@
 
 [简体中文](README.zh-CN.md)
 
-https://priv.au/search
-https://search.inetol.net/search
-https://searx.tiekoetter.com/search
-https://duckduckgo.com
-に対応(manifest)
+priv.au
+search.inetol.net
+searx.tiekoetter.com
+duckduckgo.com
+に対応(manifestの修正)
 
 Blocks specific sites from appearing in Google search results
 
